@@ -1,0 +1,13 @@
+body{ 
+    background-color: bisque;
+}
+
+
+.card{
+    margin-bottom: 20px;
+}
+
+.card img {
+height: 300px;
+object-fit: cover;
+}
